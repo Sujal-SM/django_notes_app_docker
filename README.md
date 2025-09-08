@@ -29,4 +29,5 @@ Install Nginx reverse proxy to make this application available
 `sudo apt-get update`
 `sudo apt install nginx`
 
-to clone this use - git clone 
+nginx runs on port no. 80
+
